@@ -309,3 +309,23 @@ v di ottenere scarse prestazioni
 > frammentazione interna 
 v frammentazione esterna
 > nessuna delle precedenti
+
+56) Nella tecnica di paginazione per la gestione della memoria, la scelta della dimensione della pagina di grandi dimensioni _____ prestazioni dell’uso della TLB, _____ frammentazione della tabella delle pagine e _____ il numero di operazioni di IO per cercare il working set di un processo.
+v “può migliorare le” “può ridurre la” “può ridurre”
+> “è ininfluente sulle” “può aumentare la” “può ridurre”
+
+57) Considerare la tecnica di gestione della memoria con paginazione e tabelle delle pagine multilivello _____ dimensione della tabella delle pagine in memoria e _____ l’overhead di memoria nelle operazioni di gestione. 
+> “può aumentare” “porta ad un aumento della”
+> “porta ad una riduzione della” “è ininfluente sulla”
+v “porta ad una riduzione della” “può ridurre”
+> “è ininfluente sul” “può ridurre” 
+
+58) La tecnica di gestione della memoria con paginazione basata sulla tabella inversa delle pagine _____ l’indirizzo di memoria secondaria e la tabella ha una dimensione pari alla cardinalità _____
+> “memorizza alcune pagine” “dello spazio virtuale”
+v "non memorizza” “dello spazio fisico”
+> “memorizza” “elle pagine effettivamente in memoria”
+
+59) La tecnica di gestione della memoria con paginazione e sostituzione FAR sostituisce la pagina più lontana nel grafo delle pagine da _____ dove il grafo rappresenta le pagine come _____
+v “qualsiasi pagina riferita” “nodi”
+> “da quella riferita maggiormente” “archi”
+> “da quella correntemente riferita” “etichette di archi”
